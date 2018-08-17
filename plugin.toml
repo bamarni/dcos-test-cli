@@ -1,0 +1,7 @@
+schema_version = 1
+name = "dcos-test"
+
+[[commands]]
+  description = "Helper for integration tests!"
+  name = "test"
+  path = "dcos-test"
